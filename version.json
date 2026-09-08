@@ -1,5 +1,5 @@
 {
-  "version": "2.0.3",
-  "url": "https://github.com/starboarded/scheduletray/releases/download/Schedule-Tray/SP-Scheduler-Setup.2.0.3.exe",
-  "notes": "Latest release"
+  "version": "2.1.1",
+  "url": "https://github.com/starboarded/scheduletray/releases/download/v2.1.1/SP-Scheduler-Setup-2.1.1.exe",
+  "notes": "Real installer wizard, auto-update check in Settings, versioned installer filenames"
 }
