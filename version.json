@@ -1,5 +1,5 @@
 {
-  "version": "2.4.1",
-  "url": "https://github.com/starboarded/scheduletray/releases/download/v2.4.1/Schedule-Tray-Setup-2.4.1.exe",
-  "notes": "The tray app now checks for updates every time you open it, with a prompt to download, ignore this update, or stop asking about updates entirely. Also fixed the tray icon color for Forest (now green) and Dark Mode (now grey)."
+  "version": "2.4.2",
+  "url": "https://github.com/starboarded/scheduletray/releases/download/v2.4.2/Schedule-Tray-Setup-2.4.2.exe",
+  "notes": "Updates are now fully self-contained -- the app downloads and installs them itself in the background, with a one-click restart to apply. Sessions also now persist properly across restarts."
 }
