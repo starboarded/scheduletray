@@ -1,5 +1,5 @@
 {
-  "version": "2.1.1",
-  "url": "https://github.com/starboarded/scheduletray/releases/download/v2.1.1/SP-Scheduler-Setup-2.1.1.exe",
-  "notes": "Real installer wizard, auto-update check in Settings, versioned installer filenames"
+  "version": "2.3.0",
+  "url": "https://github.com/starboarded/scheduletray/releases/download/v2.3.0/Schedule-Tray-Setup-2.3.0.exe",
+  "notes": "New Planner tab (assignments, events, milestones, friend sharing), theme sync now works both ways, friend schedules open correctly, cleaner settings menu."
 }
