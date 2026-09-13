@@ -1,5 +1,5 @@
 {
-  "version": "2.3.1",
-  "url": "https://github.com/starboarded/scheduletray/releases/download/v2.3.1/Schedule-Tray-Setup-2.3.1.exe",
-  "notes": "Fixed window sizing to fit content, removed a dead-space gap on school days, added the guessed-due-date picker to the Planner tab's assignment form, and Upcoming now shows on non-school days too."
+  "version": "2.4.0",
+  "url": "https://github.com/starboarded/scheduletray/releases/download/v2.4.0/Schedule-Tray-Setup-2.4.0.exe",
+  "notes": "Overhauled theming (fixed Forest/Amethyst contrast, refreshed Dark Mode, added Sapphire and Ember themes), a Settings Sync toggle that keeps theme + a new Show Friends toggle in sync between web and desktop (and actually fixed web-to-desktop sync), and per-class colors on your Schedule and Planner."
 }
