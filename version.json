@@ -1,5 +1,5 @@
 {
-  "version": "2.3.0",
-  "url": "https://github.com/starboarded/scheduletray/releases/download/v2.3.0/Schedule-Tray-Setup-2.3.0.exe",
-  "notes": "New Planner tab (assignments, events, milestones, friend sharing), theme sync now works both ways, friend schedules open correctly, cleaner settings menu."
+  "version": "2.3.1",
+  "url": "https://github.com/starboarded/scheduletray/releases/download/v2.3.1/Schedule-Tray-Setup-2.3.1.exe",
+  "notes": "Fixed window sizing to fit content, removed a dead-space gap on school days, added the guessed-due-date picker to the Planner tab's assignment form, and Upcoming now shows on non-school days too."
 }
