@@ -1,5 +1,5 @@
 {
-  "version": "2.4.2",
-  "url": "https://github.com/starboarded/scheduletray/releases/download/v2.4.2/Schedule-Tray-Setup-2.4.2.exe",
-  "notes": "Updates are now fully self-contained -- the app downloads and installs them itself in the background, with a one-click restart to apply. Sessions also now persist properly across restarts."
+  "version": "2.4.3",
+  "url": "https://github.com/starboarded/scheduletray/releases/download/v2.4.3/Schedule-Tray-Setup-2.4.3.exe",
+  "notes": "Fixed the theme selector colors in Settings (Forest is green, Dark Mode is grey) and removed the Feedback menu item."
 }
