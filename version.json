@@ -1,5 +1,5 @@
 {
-  "version": "2.4.3",
-  "url": "https://github.com/starboarded/scheduletray/releases/download/v2.4.3/Schedule-Tray-Setup-2.4.3.exe",
-  "notes": "Fixed the theme selector colors in Settings (Forest is green, Dark Mode is grey) and removed the Feedback menu item."
+  "version": "2.4.4",
+  "url": "https://github.com/starboarded/scheduletray/releases/download/v2.4.4/Schedule-Tray-Setup-2.4.4.exe",
+  "notes": "The app now brings itself to the front automatically after an update installs and after Google sign-in completes, instead of staying quietly in the tray."
 }
