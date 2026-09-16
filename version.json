@@ -1,5 +1,5 @@
 {
-  "version": "2.4.5",
-  "url": "https://github.com/starboarded/scheduletray/releases/download/v2.4.5/Schedule-Tray-Setup-2.4.5.exe",
-  "notes": "Real draggable header with clock and scroll fade, fixed duplicate classes in the Add Event picker, removed checkboxes from events, and assignments/events now go by actual class time instead of just the calendar date."
+  "version": "2.4.6",
+  "url": "https://github.com/starboarded/scheduletray/releases/download/v2.4.6/Schedule-Tray-Setup-2.4.6.exe",
+  "notes": "Consistent tray icon progress motion, Lunch as an event anchor, and a fixed window position/size on close so it never expands under the taskbar."
 }
