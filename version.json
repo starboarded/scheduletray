@@ -1,5 +1,5 @@
 {
-  "version": "2.4.8",
-  "url": "https://github.com/starboarded/scheduletray/releases/download/v2.4.8/Schedule-Tray-Setup-2.4.8.exe",
-  "notes": "Fixed the header spacing, added a mini widget mode when you shrink the window to its minimum height, and a Settings option to hide the header clock."
+  "version": "2.4.9",
+  "url": "https://github.com/starboarded/scheduletray/releases/download/v2.4.9/Schedule-Tray-Setup-2.4.9.exe",
+  "notes": "Add Assignment in the tray app now has a 'Show all dates' toggle for picking a due date that isn't tied to when the class actually meets."
 }
