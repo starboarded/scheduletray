@@ -1,5 +1,5 @@
 {
-  "version": "2.4.9",
-  "url": "https://github.com/starboarded/scheduletray/releases/download/v2.4.9/Schedule-Tray-Setup-2.4.9.exe",
-  "notes": "Add Assignment in the tray app now has a 'Show all dates' toggle for picking a due date that isn't tied to when the class actually meets."
+  "version": "2.5.0",
+  "url": "https://github.com/starboarded/scheduletray/releases/download/v2.5.0/Schedule-Tray-Setup-2.5.0.exe",
+  "notes": "Fixed the update-install flow when an update was dismissed once; added a 10s Undo on marking assignments complete; and right-click an event to edit its details."
 }
