@@ -1,5 +1,5 @@
 {
-  "version": "2.5.0",
-  "url": "https://github.com/starboarded/scheduletray/releases/download/v2.5.0/Schedule-Tray-Setup-2.5.0.exe",
-  "notes": "Fixed the update-install flow when an update was dismissed once; added a 10s Undo on marking assignments complete; and right-click an event to edit its details."
+  "version": "2.5.1",
+  "url": "https://github.com/starboarded/scheduletray/releases/download/v2.5.1/Schedule-Tray-Setup-2.5.1.exe",
+  "notes": "Fixes the CORS/loading outage from the last two days by moving the daily schedule to a server-refreshed cache instead of fetching the school's calendar feed directly."
 }
