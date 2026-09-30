@@ -1,5 +1,5 @@
 {
-  "version": "2.6.0",
-  "url": "https://github.com/starboarded/scheduletray/releases/download/v2.6.0/Schedule-Tray-Setup-2.6.0.exe",
-  "notes": "Right-click parity between assignments and events, class-anchored events now suggest real meeting dates with times, a frozen bottom bar in both the dashboard and Planner, a reliable drag handle everywhere, and a fix for the window opening below the taskbar."
+  "version": "2.6.1",
+  "url": "https://github.com/starboarded/scheduletray/releases/download/v2.6.1/Schedule-Tray-Setup-2.6.1.exe",
+  "notes": "Redesigned the mini widget to reuse the exact same card design as the normal current-class card, minus the teacher/room/time line -- title, progress bar, percent done, and minutes left only."
 }
